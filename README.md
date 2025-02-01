@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Carmelo85S
 - 👀 I’m interested in coding, photography and video editing.
-- 🌱 In the last 2 years i have studied Java language. In january i enbarched in another learning adventure. I’m currently learning Web Development
-- 💞️ I’m looking to improve my knowledge and become the best developer i can be
-- 📫 Reach me out here :) carmelo.salis85@gmail.com
+- 🌱 In the last 3 years i have studied Java language and webdevelopment. In january i enbarched in another learning adventure. I’m currently learning Back End Development
 - 😄 My name is Carmelo, nice to be here :D
 - ⚡
 
