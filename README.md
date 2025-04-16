@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Status Account
+# 👋 Hey! I am Carmelo ☺️
 
 Hi there! I'm a **self-taught front-end developer** with a passion for clean code, beautiful interfaces, and building things that make life easier. This account is my space to **share projects**, **track my learning**, and **grow as a developer**.
 
