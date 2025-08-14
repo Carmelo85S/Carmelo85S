@@ -21,11 +21,17 @@ What I enjoy most:
 HTML5
 CSS3
 Sass
+React
 JavaScript
 TypeScript
-React
 TailwindCSS
 NodeJs
+ExpressJs
+Docker
+PostgreSQL
+MongoDB
+VsCode
+
 
 ## 🚀 Projects You'll Find Here
 
