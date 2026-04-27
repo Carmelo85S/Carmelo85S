@@ -1,59 +1,47 @@
-# 👋 Hey! I am Carmelo ☺️
+👋 Hey! I am Carmelo ☺️
+Frontend & Mobile Developer | Passionate about building scalable architectures and intuitive user experiences. Currently focusing on React Native and Full-stack ecosystems.
 
-Hi there! I'm a **self-taught front-end developer** with a passion for clean code, beautiful interfaces, and building things that make life easier. This account is my space to **share projects**, **track my learning**, and **grow as a developer**.
+🧠 About Me
+I am a self-taught developer who thrives on the challenge of turning complex problems into clean, modular code. While my journey began with Java, I've spent the last few years mastering the React ecosystem.
 
+What drives me:
+
+Architecture First: Moving beyond "just making it work" to building reusable, modular components.
+
+Mobile Excellence: Crafting high-performance cross-platform apps with React Native & Expo.
+
+Backend Integration: Bridging the gap with Supabase, PostgreSQL, and Node.js.
+
+User-Centric Design: Creating interfaces that are as functional as they are beautiful.
 ---
 
-## 🧠 About Me
+🛠️ Tech Stack
+Category	Tools
+Frontend	React, Next.js, TypeScript, JavaScript (ES6+)
+Mobile	React Native, Expo, Expo Router
+Styling	TailwindCSS, Styled Components, Sass
+Backend & DB	Node.js, Express, Supabase, PostgreSQL, MongoDB
+DevOps & Tools	Docker, Git, VS Code, Postman
 
-I started my coding journey a few years ago using online resources. My first language was **Java**, but I quickly found my passion in front-end development—especially with **React**.
 
-What I enjoy most:
-- Building **responsive**, **user-friendly** websites
-- Coding in **React (.jsx / .tsx)**
-- Designing clean UI with **CSS**, **Tailwind**, or **Bootstrap**
-- Solving real problems with smart, functional code
+🚀 Featured Work (In Progress)
+📱 ShiftMate
 
+A professional management tool for workers and managers.
+
+Stack: React Native (Expo), TypeScript, Supabase.
+
+Key Features: Atomic component architecture, custom hooks for state management, and real-time database integration.
+
+Challenge: Implementing a clean, modular structure to handle complex user roles (Manager vs. Worker).
 ---
 
-## 🛠️ Tech Stack
+🎯 Current Goals
+Mastering Clean Architecture: Implementing SOLID principles in React/React Native.
 
-HTML5
-CSS3
-Sass
-React
-JavaScript
-TypeScript
-TailwindCSS
-NodeJs
-ExpressJs
-Docker
-PostgreSQL
-MongoDB
-VsCode
+Full-Stack Growth: Deepening my knowledge of server-side logic and database optimization.
 
+Open Source: Looking for my first meaningful contributions to the community.
 
-## 🚀 Projects You'll Find Here
-
-- Personal projects & mini apps  
-- Code experiments while learning new tech  
-- UI components & layout practice  
-- Useful tools for daily life and development  
-
----
-
-## 🎯 Goals
-
-- Keep improving my **React** and **front-end** skills  
-- Learn more about **full-stack** development  
-- Build apps that solve real problems  
-- Contribute to **open source** projects  
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to feedback, collaboration, and learning together.  
-Feel free to explore my repos and reach out if anything sparks your interest!
-
----
+🤝 Let's Connect!
+I’m always open to discussing architecture, UI/UX, or potential collaborations. Explore my repositories to see how I code!
