@@ -19,9 +19,9 @@ I am a **self-taught developer** who thrives on the challenge of turning complex
 
 | Category | Tools |
 | :--- | :--- |
-| **Frontend** | `React`, `Next.js`, `TypeScript`, `JavaScript (ES6+)` |
+| **Frontend** | `React`, `TypeScript`, `JavaScript (ES6+)` |
 | **Mobile** | `React Native`, `Expo`, `Expo Router` |
-| **Styling** | `TailwindCSS`, `Styled Components`, `Sass`, `Bootstrap` |
+| **Styling** | `TailwindCSS`, `Native Wind`, `Styled Components`, `Sass`, `Bootstrap` |
 | **Backend & DB** | `Node.js`, `Express`, `Supabase`, `PostgreSQL`, `MongoDB` |
 | **DevOps & Tools** | `Docker`, `Git`, `VS Code`, `Postman` |
 
@@ -48,7 +48,7 @@ Currently building **ShiftMate**, a professional management tool for workers and
 
 I’m always open to discussing **architecture**, **UI/UX**, or **potential collaborations**. Feel free to explore my repos and reach out!
 
-[![LinkedIn](https://www.linkedin.com/in/carmelo-salis/)
+[![LinkedIn](https://www.linkedin.com/in/carmelo-salis/)]
 
 ---
 
