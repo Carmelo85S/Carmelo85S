@@ -1,5 +1,6 @@
 👋 Hey! I am Carmelo ☺️
-Frontend & Mobile Developer | Passionate about building scalable architectures and intuitive user experiences. Currently focusing on React Native and Full-stack ecosystems.
+Frontend & Mobile Developer | Passionate about building scalable architectures and intuitive user experiences. 
+Currently focusing on React Native and Full-stack ecosystems.
 
 🧠 About Me
 I am a self-taught developer who thrives on the challenge of turning complex problems into clean, modular code. While my journey began with Java, I've spent the last few years mastering the React ecosystem.
