@@ -1,6 +1,6 @@
 # 👋 Hey! I am Carmelo ☺️
 
-**Frontend & Mobile Developer** | Passionate about building scalable architectures and intuitive user experiences. Currently focusing on **React Native** and **Full-stack** ecosystems.
+**Frontend & Mobile Developer** | Passionate about building scalable architectures and intuitive user experiences. Currently focusing on **Java, Cloud** and **Full-stack** ecosystems.
 
 ---
 
@@ -30,7 +30,7 @@ I am a **self-taught developer** who thrives on the challenge of turning complex
 ### 🚀 Featured Project: ShiftMate
 
 Currently building **ShiftMate**, a professional management tool for workers and managers.
-- **Stack**: React Native (Expo), TypeScript, Supabase.
+- **Stack**: React Native (Expo), TypeScript, Supabase, Java.
 - **Architecture**: Atomic component structure and custom hooks for scalable state management.
 - **Highlights**: Modular UI, real-time database syncing, and role-based access control.
 
